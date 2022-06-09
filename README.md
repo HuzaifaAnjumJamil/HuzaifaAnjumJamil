@@ -1,7 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Huzaifa</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">Full Stack developer, designer and efficient
+programmer looking for opportunities in software
+development</h3>
 
 ## 1. 🙋‍♂️ About Me
 
@@ -11,7 +13,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://huzaifaanjumjamil.github.io/MyPortfolio/
+)**
 
 - 📫 How to reach me **haj.huzaifa@gmail.com**
 
